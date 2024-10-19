@@ -1,5 +1,15 @@
 # Guide
 
+to run an oops file
+
+do
+
+`python oops.py [file_name : without extention]`
+
+for example:
+
+`python oops.py helloworld (helloworld.oops)`
+
 If you want to display characters
 
 use 
